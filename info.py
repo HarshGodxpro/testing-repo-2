@@ -51,22 +51,22 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'YourDemandZone')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'urlshortx.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'aacda989a636df49b60ebd363b56dd5e82095eec')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'v2.kpslink.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '4594f64382e832d6e523571792257ea43aeeb063')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/YDMovieZone')
-SPRT_CHNL = environ.get('SPRT_CHNL', 'https://t.me/YourDemandSupport')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/YourDemandZone')
+SPRT_CHNL = environ.get('SPRT_CHNL', 'https://t.me/Movie_Finder_Bot07')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Update_Proffsor_Bot')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/YourDemandZone')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/YourDemandZone')
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/Update_Proffsor_Bot/11')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001657638670'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'YourDemandSupport')
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001666192850'))
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Movie_Finder_Bot07')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
@@ -100,5 +100,5 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 #Direct Link Generator By @Developerr_Bots
 DIRECT_GEN_DB = int(environ.get("DIRECT_GEN_DB", "-1001908991684")) # Enter your channel id
-DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "http://profiletolink78-c13c753c3752.herokuapp.com/") # https://example.com/
+DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "http://fmfiletolink.onrender.com/") # https://example.com/
 DIRECT_GEN = bool(DIRECT_GEN_DB and DIRECT_GEN_URL)
