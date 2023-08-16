@@ -77,8 +77,8 @@ async def give_filter(client, message):
 #     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
 #     if user_id in ADMINS: return # ignore admins
 #     await message.reply_text(
-#          text=f"<b>ʜᴇʏ {user} 😍 ,\n\nʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ᴍᴏᴠɪᴇs ꜰʀᴏᴍ ʜᴇʀᴇ. ʀᴇǫᴜᴇsᴛ ɪᴛ ɪɴ ᴏᴜʀ <a href=https://telegram.me/YDMovieZone>ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a> ᴏʀ ᴄʟɪᴄᴋ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 👇</b>", disable_web_page_preview=True,
-#          reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ", url=f"telegram.me/YDMovieZone")]])
+#          text=f"<b>ʜᴇʏ {user} 😍 ,\n\nʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ᴍᴏᴠɪᴇs ꜰʀᴏᴍ ʜᴇʀᴇ. ʀᴇǫᴜᴇsᴛ ɪᴛ ɪɴ ᴏᴜʀ <a href=https://t.me/MovieFinder_Bot77>ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a> ᴏʀ ᴄʟɪᴄᴋ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 👇</b>", disable_web_page_preview=True,
+#          reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ", url=f"https://t.me/MovieFinder_Bot77")]])
 #     )
 #     await bot.send_message(
 #         chat_id=LOG_CHANNEL,
@@ -963,7 +963,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                                     InlineKeyboardButton('📋 Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ', url=SPRT_CHNL),
                                     InlineKeyboardButton('🔔 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                                 ],[
-                                    InlineKeyboardButton("🌿 Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🥀", url="telegram.me/YDMovieZone")
+                                    InlineKeyboardButton("🌿 Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🥀", url="https://t.me/MovieFinder_Bot77")
                                 ]
                                 ]
                             )
@@ -1305,7 +1305,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("🌿 Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🥀", url="telegram.me/YDMovieZone")
+                 InlineKeyboardButton("🌿 Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🥀", url="https://t.me/MovieFinder_Bot77")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1330,7 +1330,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("🌿 Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🥀", url="telegram.me/YDMovieZone")
+                 InlineKeyboardButton("🌿 Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🥀", url="https://t.me/MovieFinder_Bot77")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1468,7 +1468,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('✉️ ᴀɴʏ ǫᴜᴇʀʏ ✉️', url='https://t.me/Mr_SpidyBot')
+            InlineKeyboardButton('✉️ ᴀɴʏ ǫᴜᴇʀʏ ✉️', url='https://t.me/PROFE07XH')
         ], [
             InlineKeyboardButton('∙ ꜰɪʟᴛᴇʀs ∙', callback_data='filters'),
             InlineKeyboardButton('∙ ꜰɪʟᴇ sᴛᴏʀᴇ ∙', callback_data='store_file')
@@ -1787,7 +1787,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/Mr_SPIDY")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/PROFE07XH")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1868,7 +1868,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "shortlink_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/Mr_SPIDYBot")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/PROFE07XH")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
