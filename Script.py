@@ -199,11 +199,10 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : {file_name}
-════════※ ·❆· ※════════
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href="https://t.me/Update_Proffsor_Bot">⚡UPDATE CHANNEL⚡</a>
-▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href="https://t.me/MovieFinder_Bot77">🌹MOVIE REQUEST🌹</a>
-════════※ ·❆· ※════════</b>""" 
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_caption}</code>
+
+<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href="https://t.me/MovieFinder_Bot77">🪐「 #𝑷𝑹𝑶𝑭𝑬𝑺𝑺𝑶𝑹」🪐</a>
+</b>"""
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
