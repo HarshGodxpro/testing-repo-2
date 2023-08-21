@@ -153,7 +153,7 @@ async def next_page(bot, query):
         )
         btn.insert(0, [
             InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url=f"https://t.me/Update_Proffsor_Bot/11")
         ])
     else:
         btn = []
@@ -491,7 +491,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
     # if ENABLE_SHORTLINK == True:
     btn.insert(0, [
         InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+        InlineKeyboardButton("⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url=f"https://t.me/Update_Proffsor_Bot/11")
     ])
     # else:
     #     btn.insert(0, [
@@ -660,7 +660,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
             for file in files
         ]
     btn.insert(0, [
-        InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
+        InlineKeyboardButton("⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url=f"https://t.me/Update_Proffsor_Bot/11")
         InlineKeyboardButton("Sᴇʟᴇᴄᴛ ᴀɢᴀɪɴ", callback_data=f"seasons#{key}")
     ])
     
@@ -1792,7 +1792,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await client.edit_message_media(
                 query.message.chat.id, 
                 query.message.id, 
-                InputMediaPhoto("https://te.legra.ph/file/d530333a7df5211566f62.jpg")
+                InputMediaPhoto("https://graph.org/file/e46b3bcd9493527a1841e.jpg")
             )
             reply_markup = InlineKeyboardMarkup(btn)
             await query.message.edit_text(
@@ -1818,7 +1818,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],[
                     InlineKeyboardButton("🍂 Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ 🍂", url=SPRT_CHNL)
                 ],[
-                    InlineKeyboardButton("🌼 Mᴏᴠɪᴇ Cʜᴀɴɴᴇʟ🌼", url='https://t.me/YourDemand3')
+                    InlineKeyboardButton("🌼 Mᴏᴠɪᴇ Cʜᴀɴɴᴇʟ🌼", url='https://t.me/Update_Proffsor_Bot')
                 ],[
                     InlineKeyboardButton("🥀 Mᴀɪɴ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 🥀", url=CHNL_LNK)
                 ],[
@@ -1830,7 +1830,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await client.edit_message_media(
                 query.message.chat.id, 
                 query.message.id, 
-                InputMediaPhoto("https://graph.org/file/1f8329497fc99cf66d9dd.jpg")
+                InputMediaPhoto("https://graph.org/file/e46b3bcd9493527a1841e.jpg")
             )
             reply_markup = InlineKeyboardMarkup(btn)
             await query.message.edit_text(
@@ -2094,7 +2094,7 @@ async def auto_filter(client, msg, spoll=False):
     #     ])
         btn.insert(0, [
             InlineKeyboardButton("Sᴛᴀʀᴛ Bᴏᴛ", url=f"https://telegram.me/{temp.U_NAME}"),
-            InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url=f"https://t.me/Update_Proffsor_Bot/11")
         ])
     # if ENABLE_TUTORIAL == True:
     #     btn.insert(0, [
