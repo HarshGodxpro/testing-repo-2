@@ -50,7 +50,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "YourDemandZone")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'YourDemandZone')
 
 # Others
-VERIFY = bool(environ.get('VERIFY', False))
+VERIFY = bool(environ.get('VERIFY', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'v2.kpslink.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '4594f64382e832d6e523571792257ea43aeeb063')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
@@ -58,14 +58,14 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/YDMovieZone')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MovieFinder_Bot77')
 SPRT_CHNL = environ.get('SPRT_CHNL', 'https://t.me/Movie_Finder_Bot07')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Update_Proffsor_Bot')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Update_Proffsor_Bot/4')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/Update_Proffsor_Bot/11')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001666192850'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001943436770'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Movie_Finder_Bot07')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), False)
@@ -99,6 +99,6 @@ LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 #Direct Link Generator By @Developerr_Bots
-DIRECT_GEN_DB = int(environ.get("DIRECT_GEN_DB", "-1001908991684")) # Enter your channel id
-DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "http://fmfiletolink.onrender.com/") # https://example.com/
+DIRECT_GEN_DB = int(environ.get("DIRECT_GEN_DB", "-1001752652194")) # Enter your channel id
+DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "http://maxfiletolink.onrender.com/") # https://example.com/
 DIRECT_GEN = bool(DIRECT_GEN_DB and DIRECT_GEN_URL)
