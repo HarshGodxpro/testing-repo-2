@@ -199,7 +199,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_caption}</code>
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href="https://t.me/MovieFinder_Bot77">🪐「 #𝑷𝑹𝑶𝑭𝑬𝑺𝑺𝑶𝑹」🪐</a>
 </b>"""
