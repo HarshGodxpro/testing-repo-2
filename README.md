@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/1356905fa52fe4aa3ba7d.jpg" alt="YDNewAuto-Bot Logo">
+  <img src="https://graph.org/file/1f297cbba18f31c408a44.jpg" alt="YDNewAuto-Bot Logo">
 </p>
 <h1 align="center">
   YD-NEW-AUTO-Bot
