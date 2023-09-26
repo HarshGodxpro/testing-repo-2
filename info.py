@@ -100,5 +100,5 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 #Direct Link Generator By @Developerr_Bots
 DIRECT_GEN_DB = int(environ.get("DIRECT_GEN_DB", "-1001855110365")) # Enter your channel id
-DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "https://maxleechzone-779bc3ae92d2.herokuapp.com/") # https://example.com/
+DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "https://downloadlink-0bef3a350a72.herokuapp.com/") # https://example.com/
 DIRECT_GEN = bool(DIRECT_GEN_DB and DIRECT_GEN_URL)
