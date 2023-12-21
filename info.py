@@ -99,6 +99,6 @@ LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 #Direct Link Generator By @Developerr_Bots
-DIRECT_GEN_DB = int(environ.get("DIRECT_GEN_DB", "-1001818991527")) # Enter your channel id
-DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "https://filetolink101bot-52f305c2bd90.herokuapp.com/") # https://example.com/
+DIRECT_GEN_DB = int(environ.get("DIRECT_GEN_DB", "-1002073550724")) # Enter your channel id
+DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "https://fmfiletolink103-39fd53d506e1.herokuapp.com/") # https://example.com/
 DIRECT_GEN = bool(DIRECT_GEN_DB and DIRECT_GEN_URL)
