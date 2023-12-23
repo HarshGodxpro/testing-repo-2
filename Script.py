@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/PROFE07XH'>「 #𝑷𝑹𝑶𝑭𝑬𝑺𝑺𝑶𝑹」🪐</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/PROFE07XH'>「 #ᑭᖇOᖴᖴᗴՏOᖇ」🪐</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -149,19 +149,28 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟ
     SHORTLINK_INFO = """
 <b>─────「<a href=t.me/Update_Proffsor_Bot/4> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」─────
 
-Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
+Nᴏᴡ Yᴏᴜ Cᴀɴ Sᴛᴀʀᴛ Eᴀʀɴɪɴɢ 💸 Mᴏɴᴇʏ Tᴏᴅᴀʏ Wɪᴛʜ Oᴜʀ Sɪᴍᴘʟᴇ Aɴᴅ Eᴀꜱʏ-Tᴏ-Uꜱᴇ Bᴏᴛ!
 
-Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
+›› Sᴛᴇᴘ 1 : Aᴅᴅ Tʜɪꜱ Bᴏᴛ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aꜱ Aɴ Aᴅᴍɪɴ...
 
-sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
+›› Sᴛᴇᴘ 2 : ᴜꜱᴇ /connect ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://urlshortx.com/ref/Spidynaik>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+›› Sᴛᴇᴘ 3 : Iꜰ Yᴏᴜ Dᴏɴ'ᴛ Uꜱɪɴɢ Aɴʏ Sʜᴏʀᴛɴᴇʀ Wᴇʙꜱɪᴛᴇ Tʜᴇɴ Mᴀᴋᴇ Aᴄᴄᴏᴜɴᴛ Fɪʀꜱᴛ Oɴ Kʀɪsʜɴᴀʟɪɴᴋs (Yᴏᴜ Cᴀɴ Aʟꜱᴏ Uꜱᴇ Oᴛʜᴇʀ Lɪɴᴋ Sʜᴏʀᴛɴᴇʀ Wᴇʙꜱɪᴛᴇ).
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Update_Proffsor_Bot/4> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+›› Sᴛᴇᴘ 4 : Cᴏᴘʏ Yᴏᴜʀ Aᴘɪ Fʀᴏᴍ Wᴇʙꜱɪᴛᴇ Aɴᴅ Tʜᴇɴ, Sɪᴍᴘʟʏ Sᴇᴛ Yᴏᴜʀ Wᴇʙꜱɪᴛᴇ Aɴᴅ Aᴘɪ Uꜱɪɴɢ Tʜᴇ
+/set_shortner Cᴏᴍᴍᴀɴᴅ.
 
-➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
+› Lɪᴋᴇ Tʜɪꜱ :  /set_shortner omnifly.in.net 9c6894b8b9d7a692cff9d41124bf39fc2c937d5a
 
-Any Doubts or Not Connecting? Contact Me </b>
+Tʜɪꜱ Bᴏᴛ Wɪʟʟ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ Cᴏɴᴠᴇʀᴛꜱ Lɪɴᴋꜱ Wɪᴛʜ Yᴏᴜʀ Aᴘɪ Aɴᴅ Wɪʟʟ Pʀᴏᴠɪᴅᴇ Yᴏᴜʀ Lɪɴᴋꜱ.
+
+›› ꜱᴛᴇᴘ 5 : Uꜱᴇ /set_tutorial Tᴏ Aᴅᴅ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Vɪᴅᴇᴏ Fᴏʀ Yᴏᴜʀ Sʜᴏʀᴛɴᴇʀ Wᴇʙꜱɪᴛᴇ.
+ 
+› Lɪᴋᴇ Tʜɪꜱ : /set_tutorial https://t.me/Noobseverywhere
+
+★ Dᴏɴ'ᴛ Wᴀɪᴛ Aɴʏ Lᴏɴɢᴇʀ Tᴏ Sᴛᴀʀᴛ Eᴀʀɴɪɴɢ Mᴏɴᴇʏ Fʀᴏᴍ Yᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ. Aᴅᴅ Oᴜʀ Bᴏᴛ Tᴏᴅᴀʏ Aɴᴅ Sᴛᴀʀᴛ Mᴀᴋɪɴɢ Mᴏɴᴇʏ 💰!
+
+❗️ Aɴʏ Dᴏᴜʙᴛs Oʀ Nᴏᴛ Cᴏɴɴᴇᴄᴛɪɴɢ? Cᴏɴᴛᴀᴄᴛ Mᴇ... </b>
 """
 
     REQINFO = """
@@ -201,7 +210,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href="https://t.me/MovieFinder_Bot77">🪐「 #𝑷𝑹𝑶𝑭𝑬𝑺𝑺𝑶𝑹」🪐</a>
+<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href="https://t.me/+osGys-VTbCVkODhl">🪐「Pʀᴏғғᴇꜱᴏʀ」🪐</a>
 </b>"""
 
     FORCE_SUB = """
@@ -222,7 +231,7 @@ IMDb Data:
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
-⏱️ Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
+⏳ Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
 
     
