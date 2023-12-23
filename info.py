@@ -51,8 +51,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'YourDemandZone')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'gplinks.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'bc4462ccb3c7c66f0cce85a8a3c8b825978b329d')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'omnifly.in.net')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'c9934b57692c58238cb833a435762bd7ca88a69b')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
