@@ -50,7 +50,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "YourDemandZone")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'YourDemandZone')
 
 # Others
-VERIFY = bool(environ.get('VERIFY', True))
+VERIFY = bool(environ.get('VERIFY', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'omnifly.in.net')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'c9934b57692c58238cb833a435762bd7ca88a69b')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
