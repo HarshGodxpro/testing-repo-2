@@ -50,7 +50,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "YourDemandZone")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'YourDemandZone')
 
 # Others
-VERIFY = bool(environ.get('VERIFY', False))
+VERIFY = bool(environ.get('VERIFY', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'offerlinks.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'e8a30159638e5ebba63d377752cbf0ef10f462a1')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
@@ -100,5 +100,5 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 #Direct Link Generator By @Developerr_Bots
 DIRECT_GEN_DB = int(environ.get("DIRECT_GEN_DB", "-1002073550724")) # Enter your channel id
-DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "https://fmfiletolink107-ecf82ec8bcb3.herokuapp.com/") # https://example.com/
+DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "https://professor-xx-905994a60a2e.herokuapp.com/") # https://example.com/
 DIRECT_GEN = bool(DIRECT_GEN_DB and DIRECT_GEN_URL)
