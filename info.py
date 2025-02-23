@@ -51,8 +51,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'YourDemandZone')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Shortxlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '5519b996faca98d475714a0440c5e8cb0abbb90c')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'adlinkfly.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '97ce254ddb4c6f08b350d36ea597ebaff7fe9c65')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
