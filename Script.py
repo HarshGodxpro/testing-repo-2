@@ -147,7 +147,7 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟ
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>─────「<a href=t.me/Update_Proffsor_Bot/4> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」─────
+<blockquote><b>─────「<a href=t.me/Update_Proffsor_Bot/4> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」─────
 
 Nᴏᴡ Yᴏᴜ Cᴀɴ Sᴛᴀʀᴛ Eᴀʀɴɪɴɢ 💸 Mᴏɴᴇʏ Tᴏᴅᴀʏ Wɪᴛʜ Oᴜʀ Sɪᴍᴘʟᴇ Aɴᴅ Eᴀꜱʏ-Tᴏ-Uꜱᴇ Bᴏᴛ!
 
@@ -170,7 +170,7 @@ Tʜɪꜱ Bᴏᴛ Wɪʟʟ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ Cᴏɴᴠᴇʀᴛꜱ 
 
 ★ Dᴏɴ'ᴛ Wᴀɪᴛ Aɴʏ Lᴏɴɢᴇʀ Tᴏ Sᴛᴀʀᴛ Eᴀʀɴɪɴɢ Mᴏɴᴇʏ Fʀᴏᴍ Yᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ. Aᴅᴅ Oᴜʀ Bᴏᴛ Tᴏᴅᴀʏ Aɴᴅ Sᴛᴀʀᴛ Mᴀᴋɪɴɢ Mᴏɴᴇʏ 💰!
 
-❗️ Aɴʏ Dᴏᴜʙᴛs Oʀ Nᴏᴛ Cᴏɴɴᴇᴄᴛɪɴɢ? Cᴏɴᴛᴀᴄᴛ Mᴇ... </b>
+❗️ Aɴʏ Dᴏᴜʙᴛs Oʀ Nᴏᴛ Cᴏɴɴᴇᴄᴛɪɴɢ? Cᴏɴᴛᴀᴄᴛ Mᴇ... </b></blockquote>
 """
 
     REQINFO = """
