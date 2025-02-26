@@ -17,4 +17,3 @@ countryinfo
 aiofiles==24.1.0
 telegraph==2.2.0
 Pillow==11.1.0
-pyrofork==2.3.58
