@@ -50,9 +50,9 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "YourDemandZone")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'YourDemandZone')
 
 # Others
-VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'offerlinks.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'e8a30159638e5ebba63d377752cbf0ef10f462a1')
+VERIFY = bool(environ.get('VERIFY', True))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'modijiurl.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'c4d1da86e395f247db63ad761eab11aac58feef4')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
@@ -100,5 +100,5 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 #Direct Link Generator By @Developerr_Bots
 DIRECT_GEN_DB = int(environ.get("DIRECT_GEN_DB", "-1002073550724")) # Enter your channel id
-DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "https://aivideoplayerbot-277dd8a001d0.herokuapp.com/") # https://example.com/
+DIRECT_GEN_URL = environ.get("DIRECT_GEN_URL", "https://blushing-ashlan-cinemad2-6a56d8d2.koyeb.app/") # https://example.com/
 DIRECT_GEN = bool(DIRECT_GEN_DB and DIRECT_GEN_URL)
