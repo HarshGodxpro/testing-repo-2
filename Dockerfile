@@ -1,7 +1,6 @@
-FROM python:3.12.0a5-slim-buster
+FROM FROM python:3.10.8-slim-bullseye
 
-RUN apt update && apt upgrade -y
-RUN apt install git -y
+RUN apt-get update && apt-get install -y git
 COPY requirements.txt /requirements.txt
 
 RUN cd /
